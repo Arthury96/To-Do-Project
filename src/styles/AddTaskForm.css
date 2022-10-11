@@ -1,0 +1,12 @@
+
+
+.AddTaskForm {
+    background-color: rgba(247, 222, 82, 0.39);
+    border: 3px solid rgba(255, 193, 24, 0.89);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+    min-width: 350px;
+    max-width: 850px;
+    
+}
